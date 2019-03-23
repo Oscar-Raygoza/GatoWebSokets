@@ -1,0 +1,27 @@
+.cat-element{
+  border: solid 1px #000;
+  height: 120px;
+
+}
+
+body{
+	background-color: #000000; 
+}
+
+.row{
+	background-color: #F0CA4D;
+	font-size: 80px;
+	font-family: "Roboto Mono";
+	color: #DE5B49;
+	
+}
+.font{
+	font-family: "Roboto Mono";
+	color: #E37B40;
+}
+.font_{
+	font-family: "Roboto Mono";
+	font-size: 15px;
+	color: #46B29D;
+
+}
